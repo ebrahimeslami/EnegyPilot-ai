@@ -1,4 +1,4 @@
-# 📘 PUCT Energy Efficiency Community Portal  
+# PUCT Energy Efficiency Community Portal  
 **A RAG-based, community-facing regulatory chatbot for Texas energy efficiency rules**
 
 ---
@@ -66,22 +66,22 @@ The portal is designed for non-technical users and includes:
 
 ## Features
 
-### 🔍 Retrieval-Augmented Regulatory Chatbot
+### Retrieval-Augmented Regulatory Chatbot
 - Answers questions using retrieved rule text only
 - Provides page-level citations for every regulatory claim
 - Refuses to speculate when supporting text is not found
 
-### ⚖️ Regulatory-Only Mode Enforcement
+### Regulatory-Only Mode Enforcement
 When users select **“PUCT Rules only”**:
 - Program logistics questions (rebates, sign-up, eligibility) trigger a warning
 - Users are prompted to explicitly enable CenterPoint context if desired
 
-### 🧾 Citation Quality Check
+### Citation Quality Check
 If an answer includes regulatory language (e.g., “must,” “required,” “PUCT rule”) but lacks a valid PUCT citation:
 - The response is rejected
 - The user is asked to rephrase or increase retrieval depth
 
-### 📚 Built-In Glossary
+### Built-In Glossary
 A curated glossary explains common energy efficiency terms, including:
 - kW vs kWh
 - EM&V
@@ -91,7 +91,7 @@ A curated glossary explains common energy efficiency terms, including:
 
 Glossary entries appear automatically when relevant.
 
-### 🌐 Bilingual Output
+### Bilingual Output
 - English and Spanish responses supported
 - Citations remain anchored to English regulatory text (authoritative source)
 
@@ -123,7 +123,7 @@ EnergyPilot_puct-ee-portal/
 ### 1. Create and activate a virtual environment (Windows example)
 
 ```powershell
-cd D:\Business\EnergyPilot\EnergyPilot_puct-ee-portal
+cd {target folder path}\EnergyPilot_puct-ee-portal
 python -m venv .venv
 .venv\Scripts\activate
 ```
@@ -182,14 +182,14 @@ Open the local URL shown in the terminal (typically `http://localhost:8501`).
 
 ---
 
-## 📖 Cite This Tool
+## Cite This Tool
 
 If you use this repository, portal, or methodology in academic work, policy analysis, community engagement, or derivative tools, please cite it as follows.
 
 ### Recommended Citation
 
 **Eslami, E.** (2025). *PUCT Energy Efficiency Community Portal: A Retrieval-Augmented Generation (RAG) Tool for Interpreting Texas Energy Efficiency Regulations (16 TAC §§25.181–25.183).* GitHub repository.  
-`https://github.com/<your-username>/<your-repo-name>`
+`(https://github.com/ebrahimeslami/EnegyPilot-ai)`
 
 ### BibTeX
 
@@ -198,7 +198,7 @@ If you use this repository, portal, or methodology in academic work, policy anal
   author  = {Eslami, Ebrahim},
   title   = {PUCT Energy Efficiency Community Portal: A Retrieval-Augmented Generation (RAG) Tool for Interpreting Texas Energy Efficiency Regulations (16 TAC §§25.181--25.183)},
   year    = {2025},
-  url     = {https://github.com/<your-username>/<your-repo-name>},
+  url     = {(https://github.com/ebrahimeslami/EnegyPilot-ai)},
   note    = {Python-based RAG system using authoritative PUCT rule text and separate utility program context}
 }
 ```
