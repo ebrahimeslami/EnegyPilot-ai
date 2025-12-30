@@ -220,14 +220,3 @@ The project is **independent** and **not affiliated with or endorsed by** the PU
 
 ---
 
-## License
-
-Choose an open-source license consistent with your goals (e.g., MIT or Apache 2.0).
-
----
-
-### Next Steps
-- Draft a **short letter paper** describing the methodology and guardrails
-- Expand to additional PUCT Chapter 25 rules
-- Deploy as a hosted public-facing portal
-- Add audit logging for regulatory traceability
