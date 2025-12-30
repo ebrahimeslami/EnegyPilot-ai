@@ -1,0 +1,9 @@
+streamlit>=1.36
+requests>=2.31
+pymupdf>=1.24
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0
+numpy>=1.26
+trafilatura>=1.12
+pydantic>=2.8
+openai>=1.40

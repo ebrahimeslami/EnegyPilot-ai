@@ -1,0 +1,46 @@
+[
+  {
+    "chunk_id": "994979daeb565f50",
+    "doc_id": "cp_res_ee",
+    "source_type": "centerpoint_context",
+    "rule_id": null,
+    "title": "CenterPoint Residential Electric Efficiency Programs",
+    "source_url": "https://www.centerpointenergy.com/en-us/residential/save-energy-money/electric-efficiency-programs/residential-electric-efficiency",
+    "page_start": null,
+    "page_end": null,
+    "text": "The browser you are using is out of date and will soon be unsupported.\nPlease update to the latest version or view our site in another browser.\nTo serve you better please select from the list of service areas below to see relevant CenterPoint Energy information.\nState\nRegion"
+  },
+  {
+    "chunk_id": "6b3ec47673a0f58a",
+    "doc_id": "cp_res_sop",
+    "source_type": "centerpoint_context",
+    "rule_id": null,
+    "title": "CenterPoint Residential Standard Offer Program",
+    "source_url": "https://www.centerpointenergy.com/en-us/SaveEnergyandMoney/Pages/residential-standard-offer-program.aspx",
+    "page_start": null,
+    "page_end": null,
+    "text": "The browser you are using is out of date and will soon be unsupported.\nPlease update to the latest version or view our site in another browser.\nTo serve you better please select from the list of service areas below to see relevant CenterPoint Energy information.\nState\nRegion"
+  },
+  {
+    "chunk_id": "c73552447b07c886",
+    "doc_id": "cp_ci_sop",
+    "source_type": "centerpoint_context",
+    "rule_id": null,
+    "title": "CenterPoint Commercial & Industrial Standard Offer Program",
+    "source_url": "https://www.centerpointenergy.com/en-us/SaveEnergyandMoney/Pages/commercial-industrial-standard-offer-program.aspx",
+    "page_start": null,
+    "page_end": null,
+    "text": "The browser you are using is out of date and will soon be unsupported.\nPlease update to the latest version or view our site in another browser.\nTo serve you better please select from the list of service areas below to see relevant CenterPoint Energy information.\nState\nRegion"
+  },
+  {
+    "chunk_id": "0621642126c135a9",
+    "doc_id": "cp_bus_ee",
+    "source_type": "centerpoint_context",
+    "rule_id": null,
+    "title": "CenterPoint Business Efficiency Programs",
+    "source_url": "https://www.centerpointenergy.com/en-us/business/save-energy-money/electric-efficiency-programs/business-efficiency-programs",
+    "page_start": null,
+    "page_end": null,
+    "text": "The browser you are using is out of date and will soon be unsupported.\nPlease update to the latest version or view our site in another browser.\nTo serve you better please select from the list of service areas below to see relevant CenterPoint Energy information.\nState\nRegion"
+  }
+]

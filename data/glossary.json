@@ -1,0 +1,34 @@
+[
+  {
+    "term": "kW",
+    "definition": "kW (kilowatt) is a measure of instantaneous power demand. It is often used when discussing peak demand reduction."
+  },
+  {
+    "term": "kWh",
+    "definition": "kWh (kilowatt-hour) is a measure of energy over time. It is used to describe energy savings from efficiency measures."
+  },
+  {
+    "term": "EE",
+    "definition": "Energy efficiency (EE) refers to measures that reduce energy use while maintaining the same service or output."
+  },
+  {
+    "term": "EECRF",
+    "definition": "Energy Efficiency Cost Recovery Factor. A rate mechanism used to recover certain energy efficiency program costs (see §25.182)."
+  },
+  {
+    "term": "EM&V",
+    "definition": "Evaluation, measurement, and verification. Methods used to quantify and validate energy savings and demand impacts (see §25.183)."
+  },
+  {
+    "term": "Standard Offer Program (SOP)",
+    "definition": "A program structure where incentives are paid for verified savings, typically through standard measures and reporting requirements."
+  },
+  {
+    "term": "Peak demand",
+    "definition": "The highest level of electricity demand during a specific period. Efficiency programs often target peak reduction for system reliability and cost control."
+  },
+  {
+    "term": "TDU",
+    "definition": "Transmission and Distribution Utility. In many Texas areas, TDUs implement certain programs even when retail choice exists."
+  }
+]
